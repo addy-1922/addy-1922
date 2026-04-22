@@ -1,5 +1,5 @@
 # Aditya-Naik
-# Hi, I'm Aditya Naik 👋
+# Hi, I'm a Data Analyst 👋
 
 🎓 Pursuing B.E.
 📊 Aspiring Data Analyst passionate about turning data into insights
