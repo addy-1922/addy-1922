@@ -23,4 +23,8 @@
 * Improving data storytelling
 * Building more real-world projects
 
+# 📊 Dashboard Showcase
 
+## Adidas Dashboard
+
+![Dashboard](Screenshot 2026-05-22 072452.png)
