@@ -27,4 +27,4 @@
 
 ## Adidas Dashboard
 
-![Dashboard](Screenshot 2026-05-22 072452.png)
+![Dashboard](adidas-dashboard.png)
