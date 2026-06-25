@@ -38,4 +38,5 @@
 ## Achievements
 ### Leetcode 50-Day Badge
 <p align="Center">
-<img src="images/leetcode-50days badge.png" alt=""></p>
+<img src="50days badge.png" alt="">
+</p>
