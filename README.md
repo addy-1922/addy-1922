@@ -2,7 +2,7 @@
 # Hi, I'm Aditya Naik 👋
 
 🎓 Pursuing B.E.
-📊 Aspiring Software Engineer passionate about solving problems througmy coding skills.
+📊 Aspiring Software Engineer passionate about solving problems through my coding skills.
 
 ## 🔧 Skills
 
