@@ -21,7 +21,7 @@
 *  Flight Price Analysis
 *  Customer Churn Analysis
 *  World Literacy Map
-*  Web-Scraper using Djnago
+*  Web-Scraper using Django
 
 ## 🚀 What I'm Working On
 
